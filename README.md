@@ -1,10 +1,11 @@
 # Front End Developer Interview Questions For Freshers
 
 To be a successful frontend developer, you need a combination of technical skills, problem-solving abilities, and a good understanding of user experience design. Here are some essential skills for frontend development:
-1.Proficient in HTML: Understanding the structure, semantics, and best practices of HTML is essential for creating well-structured and accessible web pages.
-2.Strong CSS Skills: CSS is used for styling and layout. You should be proficient in CSS fundamentals, including selectors, box model, positioning, responsive design, and CSS frameworks.
-3.JavaScript and Frameworks: JavaScript is a core language for frontend development. Familiarity with JavaScript and its libraries/frameworks like React, Angular, or Vue.js is crucial for building interactive and dynamic web applications.
-4.Responsive Design: Ability to create responsive layouts that adapt to different screen sizes and devices is essential for delivering a consistent and user-friendly experience across various platforms.
+1. First ordered list item
+1. Proficient in HTML: Understanding the structure, semantics, and best practices of HTML is essential for creating well-structured and accessible web pages.
+2. Strong CSS Skills: CSS is used for styling and layout. You should be proficient in CSS fundamentals, including selectors, box model, positioning, responsive design, and CSS frameworks.
+3. JavaScript and Frameworks: JavaScript is a core language for frontend development. Familiarity with JavaScript and its libraries/frameworks like React, Angular, or Vue.js is crucial for building interactive and dynamic web applications.
+4. Responsive Design: Ability to create responsive layouts that adapt to different screen sizes and devices is essential for delivering a consistent and user-friendly experience across various platforms.
 
 #h2 Front End Developer Interview Questions for Freshers
 
