@@ -11,121 +11,36 @@ To be a successful frontend developer, you need a combination of technical skill
 
 # HTML
 1. [What are the new features of HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fnew-features-of-html5)
-2. [What is the purpose of the doctype declaration in HTML5 ?]([httmps://www.google.co](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-purpose-of-the-doctype-declaration-in-html5))
+2. [What is the purpose of the doctype declaration in HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-purpose-of-the-doctype-declaration-in-html5))
 3. [What would happen if I would not declare doctype in html ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-would-happen-if-i-would-not-declare-doctype-in-html)
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+4. [What are data attributes in HTML5 and how are they used ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-data-attributes-in-html5-and-how-are-they-used)
+5. [What is the difference between HTML and HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-difference-between-html-and-html5)
+6. [What is the difference between localstorage , session storage and cookies ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fdifference-between-localstorage-%2C-session-storage-and-cookies)
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+# CSS
+1. [Explain CSS position properties ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fexplain-css-position-properties)
+2. [What is the difference between display inline , display inline block and display block ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fdifference-between-display-inline-%2C-display-inline-block-and-display-block)
+3. [What are the different types of Selectors in CSS ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-the-different-types-of-selectors-in-css)
+4. [What are pseudo elements and pseudo classes ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-pseudo-elements-and-pseudo-classes)
+5. [What are new features in CSS3 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-new-features-in-css3)
+6. [What is the box model in CSS3 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-box-model-in-css3)
+7. [In how many ways can we add CSS to our HTML file ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fin-how-many-ways-can-we-add-css-to-our-html-file)
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+# HTML
+1. [What are the new features of HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fnew-features-of-html5)
+2. [What is the purpose of the doctype declaration in HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-purpose-of-the-doctype-declaration-in-html5))
+3. [What would happen if I would not declare doctype in html ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-would-happen-if-i-would-not-declare-doctype-in-html)
+4. [What are data attributes in HTML5 and how are they used ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-data-attributes-in-html5-and-how-are-they-used)
+5. [What is the difference between HTML and HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-difference-between-html-and-html5)
+6. [What is the difference between localstorage , session storage and cookies ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fdifference-between-localstorage-%2C-session-storage-and-cookies)
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-CSS
-Explain CSS position properties ?
-What is the difference between display inline , display inline block and display block ?
-What are the different types of Selectors in CSS ?
-What are pseudo elements and pseudo classes ?
-What are new features in CSS3 ?
-What is the difference between == and === ?
-What is the box model in CSS3 ?
-In how many ways can we add CSS to our HTML file?
 
-JavaScript
-What are the data types in JavaScript ?
-What is the difference between null and undefined ?
-How to define a class in JavaScript ?
-Explain variable hoisting ?
-What is JSON.stringify() ?
-In how many ways we can define an object in JavaScript ?
-Explain closures in javascript ?
-What will be the output of the following :
-
-console.log(4.toString());
-console.log(4.2.toString());
-console.log(4*undefined);
-Angular
-What is a Single page application ?
-What is Angular and what are its key features ?
-What are the lifecycle hooks in an Angular component ?
-What is the difference between ng serve and npm start?
-What is the difference between 'dependencies' and 'dev-dependencies' properties in package.json ?
-How to implement routing in Angular ?
-What are the ways to share data between 2 components in Angular ?
-
-Frequently Asked Questions
-What skills do you need for front end ?
-What makes a good UI developer ?
-Is frontend more difficult ?
-
-For more questions and answers visit our website at https://www.frontendinterviewquestions.com/
-JavaScript
-What are the data types in JavaScript ?
-What is the difference between null and undefined ?
-How to define a class in JavaScript ?
-Explain variable hoisting ?
-What is JSON.stringify() ?
-In how many ways we can define an object in JavaScript ?
-Explain closures in javascript ?
-What will be the output of the following :
-
-console.log(4.toString());
-console.log(4.2.toString());
-console.log(4*undefined);
-Angular
-What is a Single page application ?
-What is Angular and what are its key features ?
-What are the lifecycle hooks in an Angular component ?
-What is the difference between ng serve and npm start?
-What is the difference between 'dependencies' and 'dev-dependencies' properties in package.json ?
-How to implement routing in Angular ?
-What are the ways to share data between 2 components in Angular ?
-
-Frequently Asked Questions
-What skills do you need for front end ?
-What makes a good UI developer ?
-Is frontend more difficult ?
-
-For more questions and answers visit our website at https://www.frontendinterviewquestions.com/
-What are pseudo elements and pseudo classes ?
-What are new features in CSS3 ?
-What is the difference between == and === ?
-What is the box model in CSS3 ?
-In how many ways can we add CSS to our HTML file?
-JavaScript
-
-What are the data types in JavaScript ?
-What is the difference between null and undefined ?
-How to define a class in JavaScript ?
-Explain variable hoisting ?
-What is JSON.stringify() ?
-In how many ways we can define an object in JavaScript ?
-Explain closures in javascript ?
-What will be the output of the following :
-console.log(4.toString());
-
-console.log(4.2.toString());
-
-console.log(4*undefined);
-
-Angular
-
-What is a Single page application ?
-What is Angular and what are its key features ?
-What are the lifecycle hooks in an Angular component ?
-What is the difference between ng serve and npm start?
-What is the difference between ‘dependencies’ and ‘dev-dependencies’ properties in package.json ?
-How to implement routing in Angular ?
-What are the ways to share data between 2 components in Angular ?
-Frequently Asked Questions
-
-What skills do you need for front end ?
-What makes a good UI developer ?
-Is frontend more difficult ?
-For more questions and answers visit our website at  frontend interview questions
+# HTML
+1. [What are the new features of HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fnew-features-of-html5)
+2. [What is the purpose of the doctype declaration in HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-purpose-of-the-doctype-declaration-in-html5))
+3. [What would happen if I would not declare doctype in html ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-would-happen-if-i-would-not-declare-doctype-in-html)
+4. [What are data attributes in HTML5 and how are they used ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-are-data-attributes-in-html5-and-how-are-they-used)
+5. [What is the difference between HTML and HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-difference-between-html-and-html5)
+6. [What is the difference between localstorage , session storage and cookies ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fdifference-between-localstorage-%2C-session-storage-and-cookies)
+   
+         
