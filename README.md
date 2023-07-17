@@ -36,11 +36,12 @@ To be a successful frontend developer, you need a combination of technical skill
 7. [In how many ways we can define an object in JavaScript ?](https://www.frontendinterviewquestions.com/interview-questions/in-how-many-ways-we-can-define-an-object-in-javascript)
 8. [Explain closures in javascript ?](https://www.frontendinterviewquestions.com/interview-questions/explain-closures-in-javascript)
 9. [What will be the output of the following :](https://www.frontendinterviewquestions.com/interview-questions/what-will-be-the-output-of-the-following-)
-console.log(4.toString());
+ 
+ console.log(4.toString());
 
-console.log(4.2.toString());
+ console.log(4.2.toString());
 
-console.log(4*undefined);
+ console.log(4*undefined);
 
 
 # Angular
