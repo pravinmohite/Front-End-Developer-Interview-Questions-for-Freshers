@@ -40,7 +40,7 @@ console.log(4.toString());
 
 console.log(4.2.toString());
 
-console.log(4*undefined);](https://www.frontendinterviewquestions.com/interview-questions/what-will-be-the-output-of-the-following-)
+console.log(4*undefined)](https://www.frontendinterviewquestions.com/interview-questions/what-will-be-the-output-of-the-following-)
 
 
 # HTML
