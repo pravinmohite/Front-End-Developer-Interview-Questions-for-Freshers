@@ -1,20 +1,20 @@
 # Front End Developer Interview Questions For Freshers
-Front End Developer Interview Questions for Freshers
-To be a successful frontend developer, you need a combination of technical skills, problem-solving abilities, and a good understanding of user experience design. Here are some essential skills for frontend development:
-Proficient in HTML: Understanding the structure, semantics, and best practices of HTML is essential for creating well-structured and accessible web pages.
-Strong CSS Skills: CSS is used for styling and layout. You should be proficient in CSS fundamentals, including selectors, box model, positioning, responsive design, and CSS frameworks.
-JavaScript and Frameworks: JavaScript is a core language for frontend development. Familiarity with JavaScript and its libraries/frameworks like React, Angular, or Vue.js is crucial for building interactive and dynamic web applications.
-Responsive Design: Ability to create responsive layouts that adapt to different screen sizes and devices is essential for delivering a consistent and user-friendly experience across various platforms.
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
-Front End Developer Interview Questions for Freshers
-HTML
-What are the new features of HTML5 ?
-What is the purpose of the doctype declaration in HTML5 ?
-What would happen if I would not declare doctype in html ?
-What are data attributes in HTML5 and how are they used ?
-What is the difference between HTML and HTML5 ?
-What is the difference between localstorage , session storage and cookies ?
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
 CSS
 Explain CSS position properties ?
 What is the difference between display inline , display inline block and display block ?
