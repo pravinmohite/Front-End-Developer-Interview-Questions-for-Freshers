@@ -7,12 +7,12 @@ To be a successful frontend developer, you need a combination of technical skill
 3. JavaScript and Frameworks: JavaScript is a core language for frontend development. Familiarity with JavaScript and its libraries/frameworks like React, Angular, or Vue.js is crucial for building interactive and dynamic web applications.
 4. Responsive Design: Ability to create responsive layouts that adapt to different screen sizes and devices is essential for delivering a consistent and user-friendly experience across various platforms.
 
-#h2 Front End Developer Interview Questions for Freshers
+# Front End Developer Interview Questions for Freshers
 
-#h3 HTML
+# HTML
 1. [What are the new features of HTML5 ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fnew-features-of-html5)
-1. [I'm an inline-style link](https://www.google.com)
-2. Another item
+2. [What is the purpose of the doctype declaration in HTML5 ?]([httmps://www.google.co](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-is-the-purpose-of-the-doctype-declaration-in-html5))
+3. [What would happen if I would not declare doctype in html ?](https://medium.com/r/?url=https%3A%2F%2Fwww.frontendinterviewquestions.com%2Finterview-questions%2Fwhat-would-happen-if-i-would-not-declare-doctype-in-html)
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
